@@ -1,1 +1,1 @@
-cloudscreen init
+ init
